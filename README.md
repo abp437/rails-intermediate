@@ -1,2 +1,3 @@
-# rails-intermediate
-This repo will focus on my intermediate level experimantation with Rails
+# README
+
+This repo will focus on my intermediate level experimentation with Rails
