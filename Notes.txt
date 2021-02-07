@@ -1,0 +1,2 @@
+An action is nothing but a public method defined inside a controller, which can then be associated with a route.
+This private methods defined inside controllers can't be associated with routes.
