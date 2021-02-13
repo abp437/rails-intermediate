@@ -15,10 +15,8 @@
 
 // Variables
 @import "base/variables";
+@import "base/default";
 
 // Partials - main css files
 @import "partials/layout/*";
-
-body {
-  margin-top: 4rem;
-}
+@import "partials/*";
