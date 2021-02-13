@@ -1,2 +1,5 @@
 An action is nothing but a public method defined inside a controller, which can then be associated with a route.
 This private methods defined inside controllers can't be associated with routes.
+
+You can add a rake task inside the `lib/tasks` folder and tun it from the CLI.
+Unlike migrations you can run a rake task as many times as you like from CLI.
